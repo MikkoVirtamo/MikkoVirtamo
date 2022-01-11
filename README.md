@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Mikko Virtamo, currently working as a software engineer.  
+My youtube for projects can be found [here](https://www.youtube.com/channel/UCNBIJWRRnVf3Hje_n4uLw-g)
 <!--
 **MikkoVirtamo/MikkoVirtamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
